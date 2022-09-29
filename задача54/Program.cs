@@ -38,7 +38,7 @@ void Print2DArray(int[,] numbers)
         }
         Console.WriteLine();
     }
-}        
+}
 void SortRow(int[,] numbers)
 {
     for (int i = 0; i < numbers.GetLength(0); i++)
